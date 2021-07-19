@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.app{
+  background-image: url('https://cdn.nextgov.com/media/img/cd/2020/10/19/NGspace20201019/860x394.jpg?1618395239');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
